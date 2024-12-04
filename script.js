@@ -280,3 +280,4 @@ btns[0].onclick();   // Initialize the game when the page is loaded
 btns[3].onclick = function() {
   mine.init();
 }
+
